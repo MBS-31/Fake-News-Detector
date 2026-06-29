@@ -7,6 +7,7 @@ A Machine Learning-based web application that classifies news articles as **Fake
 - **Intern ID:** CITS1938
 - **Name:** Madhav B Sheshwani
 - **Project Name:** Fake News Detector
+- **Project Duration:** 6 Weeks 
 
 ## Project Overview
 
